@@ -15,6 +15,7 @@ body {
     height: 69px;
     width: 100%;
     border-bottom: 1px solid seashell;
+    background-color: black;
 }
 
 .logo {
@@ -41,3 +42,19 @@ body {
     margin-top: 10px;
     color: seashell;
 }
+
+.mission-container {
+    display: inline-flex;
+    height: 700px;
+    width: 1200px;
+    background-image: url(./img/img-mission-background.jpeg);
+    justify-content: center;
+    align-items: center;
+    margin-top: 69px;
+}
+
+.mission-statement {
+    width: 100%;
+    background-color: black;
+}
+
