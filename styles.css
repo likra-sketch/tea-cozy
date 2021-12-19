@@ -84,20 +84,21 @@ body {
 }
 
 .locations-container {
-    display: inline-flex;
+    display: inline-block;
     height: 500px;
     width: 1200px;
     background-image: url(./img/img-locations-background.jpeg);
-    flex-wrap: wrap;
-    justify-content: center;
     margin-top: 69px;
 }
 
 .locations-container h2 {
     margin-bottom: 15px;
     margin-top: 69px;
-    margin-left: 500px;
-    margin-right: 500px;
+}
+
+.locations-container-flex {
+    display: flex;
+    justify-content: center;
 }
 
 .locations-box {
