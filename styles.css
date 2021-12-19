@@ -58,3 +58,26 @@ body {
     background-color: black;
 }
 
+
+.featured-heading {
+    width: 100%;
+    margin-top: 69px;
+}
+
+.featured-container {
+    display: inline-flex;
+    width: 1000px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.featured-box {
+    margin: 0 15px;
+}
+
+.featured-box img {
+    height: 200px;
+    width: 300px;
+}
+
+
