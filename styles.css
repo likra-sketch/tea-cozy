@@ -80,4 +80,30 @@ body {
     width: 300px;
 }
 
+.locations-container {
+    display: inline-flex;
+    height: 500px;
+    width: 1200px;
+    background-image: url(./img/img-locations-background.jpeg);
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 69px;
+}
+
+.locations-container h2 {
+    margin-bottom: 15px;
+    margin-top: 69px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+.locations-box {
+    height: 250px;
+    width: 300px;
+    background-color: black;
+    margin: 0 20px;
+    text-align: center;
+}
+
+
 
