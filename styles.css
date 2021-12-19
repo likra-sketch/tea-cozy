@@ -59,9 +59,12 @@ body {
 }
 
 
+#featuredTea {
+    padding-top: 69px;
+}
+
 .featured-heading {
     width: 100%;
-    margin-top: 69px;
 }
 
 .featured-container {
