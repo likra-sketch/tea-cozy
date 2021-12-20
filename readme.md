@@ -8,6 +8,10 @@ The project's task was to reproduce a given website, starting from scratch with 
 
 ![project redline](./img/img-tea-cozy-redline.jpeg)
 
+This is how my solution to the project looks like:
+
+![My solution to "Tea Cozy" project](./img/my_solution.jpeg)
+
 ## Built with:
 
 * Visual Studio Code
